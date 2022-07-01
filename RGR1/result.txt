@@ -1,0 +1,8 @@
+ 9
+ABD 1
+ABOA 2
+AS 1
+DFA 1
+FSD 1
+L 1
+SD 1
